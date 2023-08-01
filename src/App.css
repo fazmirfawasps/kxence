@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+@font-face {
+  font-family: 'Scada';
+  src: url('../fonts/scada-regular.ttf') format('truetype'),
+       url('../fonts/scada-regular.woff') format('woff'),
+       url('../fonts/scada-regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
